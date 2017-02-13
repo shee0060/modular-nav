@@ -21,19 +21,26 @@ body {
   margin: 0;
 }
 
-.logo {
-  text-align: center;
-  background-color: #e2e2e2;
+.section-dark {
+  background-color: #e2e2e2
 }
 
-nav ul li {
+.logo {
+  text-align: center;
+}
+
+nav li {
   display: inline-block;
-  color: #0074d9;
-  background-color: #e2e2e2;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
   list-style-type: none;
 }
 
 a {
+  color: #0074d9;
   text-decoration: none;
 }
 
