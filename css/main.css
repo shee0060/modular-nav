@@ -26,18 +26,18 @@ body {
   background-color: #e2e2e2;
 }
 
-nav {
+nav ul li {
   display: inline-block;
   color: #0074d9;
   background-color: #e2e2e2;
-}
-
-ul {
   list-style-type: none;
 }
 
-a:hover {
+a {
   text-decoration: none;
+}
+
+a:hover {
   background-color: #0074d9;
   color: #fff;
 }
