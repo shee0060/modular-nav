@@ -22,7 +22,7 @@ body {
 }
 
 .section-dark {
-  background-color: #e2e2e2
+  background-color: #e2e2e2;
 }
 
 .logo {
@@ -47,4 +47,9 @@ a {
 a:hover {
   background-color: #0074d9;
   color: #fff;
+}
+
+.current {
+  color: #fff;
+  background-color: #0074d9;
 }
