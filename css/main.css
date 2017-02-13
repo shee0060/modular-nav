@@ -26,13 +26,21 @@ body {
 }
 
 .logo {
-
+  background-color: #e2e2e2;
 }
 
 nav {
   display: inline-block;
+  color: #0074d9;
+  background-color: #e2e2e2;
+}
+
+ul {
+  list-style-type: none;
 }
 
 a:hover {
-
+  text-decoration: none;
+  background-color: #0074d9;
+  color: #fff;
 }
